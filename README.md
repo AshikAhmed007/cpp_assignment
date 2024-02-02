@@ -32,9 +32,7 @@ ASSIGNMENT QUESTION PAPER
  
 	Write a program to generate a report that resembles the below. 
  
- 
 	PAYROLL REPORT 
- 
 	No. 	Employee name 	 	Hours  	Salary (RM) 
 	1       AAA 	 	 	10 	75.00 
 	2 	BBB 	 	 	45 	356.25 
